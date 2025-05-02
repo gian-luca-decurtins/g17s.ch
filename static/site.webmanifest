@@ -1,0 +1,47 @@
+{
+    "short_name": "Gian Luca",
+    "name": "Gian Luca Decurtins",
+    "description": "Gian Luca Decurtins - Private",
+    "icons": [
+      {
+        "src": "/favicon.svg",
+        "type": "image/svg",
+        "sizes": "any"
+      },
+      {
+        "src": "/android-chrome-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "/android-chrome-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/apple-touch-icon.png",
+        "type": "image/png",
+        "sizes": "180x180"
+      },
+      {
+        "src": "/favicon-32x32.png",
+        "type": "image/png",
+        "sizes": "32x32"
+      },
+      {
+        "src": "/favicon-16x16.png",
+        "type": "image/png",
+        "sizes": "16x16"
+      },
+      {
+        "src": "/favicon.ico",
+        "type": "image/x-icon",
+        "sizes": "48x48"
+      }
+    ],
+    "display": "browser",
+    "start_url": "/",
+    "scope": "/",
+    "background_color": "#ffffff",
+    "theme_color": "#268bcc"
+  }

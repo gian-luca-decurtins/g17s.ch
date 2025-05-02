@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 510.3 510.3" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Logo">
+<path d="M169.92 255.15C169.92 208.178 208.099 170.1 255.194 170.1C302.29 170.1 340.468 208.178 340.468 255.15C340.468 302.122 302.29 340.2 255.194 340.2C208.099 340.2 169.92 302.122 169.92 255.15Z" fill="none" opacity="1" stroke="#f9c400" stroke-linecap="butt" stroke-linejoin="round" stroke-width="30"/>
+<path d="M255.479 85.05L255.194 113.4" fill="none" opacity="1" stroke="#f9c400" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+<path d="M341.097 107.146L326.638 131.556" fill="none" opacity="1" stroke="#f9c400" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+<path d="M453.047 141.552L379.056 183.832" fill="none" opacity="1" stroke="#f9c400" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+<path d="M425.742 255.433L397.318 255.15" fill="none" opacity="1" stroke="#f9c400" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+<path d="M403.574 341.102L379.1 326.681" fill="none" opacity="1" stroke="#f9c400" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+<path d="M340.969 403.199L327.003 378.505" fill="none" opacity="1" stroke="#f9c400" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+<path d="M254.91 481.95L255.194 396.9" fill="none" opacity="1" stroke="#f9c400" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+<path d="M140.971 452.04L183.854 378.526" fill="none" opacity="1" stroke="#f9c400" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+<path d="M106.261 340.248L131.019 326.318" fill="none" opacity="1" stroke="#f9c400" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+<path d="M27.7972 254.866L113.071 255.15" fill="none" opacity="1" stroke="#f9c400" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+<path d="M107.003 169.331L131.478 183.751" fill="none" opacity="1" stroke="#f9c400" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+<path d="M170.137 107.617L184.103 132.31" fill="none" opacity="1" stroke="#f9c400" stroke-linecap="round" stroke-linejoin="round" stroke-width="30"/>
+</g>
+<clipPath id="ArtboardFrame">
+<rect height="510.3" width="510.3" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Lines" visibility="hidden">
+<path d="M382.725 476.116L127.575 34.1836" fill="none" opacity="1" stroke="#bd4cf4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+<path d="M476.116 382.725L34.1836 127.575" fill="none" opacity="1" stroke="#bd4cf4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+<path d="M510.3 255.15L0 255.15" fill="none" opacity="1" stroke="#bd4cf4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+<path d="M476.116 127.575L34.1836 382.725" fill="none" opacity="1" stroke="#bd4cf4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+<path d="M382.725 34.1836L127.575 476.116" fill="none" opacity="1" stroke="#bd4cf4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+<path d="M255.15-7.10543e-15L255.15 510.3" fill="none" opacity="1" stroke="#bd4cf4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+<path d="M127.575 255.15C127.575 184.692 184.692 127.575 255.15 127.575C325.608 127.575 382.725 184.692 382.725 255.15C382.725 325.608 325.608 382.725 255.15 382.725C184.692 382.725 127.575 325.608 127.575 255.15Z" fill="none" opacity="1" stroke="#bd4cf4" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+</g>
+</svg>

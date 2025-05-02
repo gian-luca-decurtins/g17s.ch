@@ -1,0 +1,28 @@
+languageCode: en-GB
+languageName: English
+weight: 20
+title: Gian Luca Decurtins
+
+params:
+  displayName: English
+  isoCode: en
+  description: Find out who I am and what I do.
+  keywords:
+    - Personal website
+    - Gian Luca Decurtins
+    - Decurtins
+    - Zürich
+    - Zürich-Oerlikon
+    - Oerlikon
+    - 17
+  author:
+    image: img/kopf_hell.jpeg
+    name: Gian Luca Decurtins
+    headline: Zürich-Oerlikon
+    links:
+      - email: mailto:gian.luca.decurtins@g17s.ch
+      - linkedin: https://linkedin.com/in/g17s/
+      - strava: https://strava.com/athletes/g17s/
+      - soundcloud: https://soundcloud.com/gianurban/
+      - facebook: https://facebook.com/decurgia17/
+      - github: https://github.com/decurgia/

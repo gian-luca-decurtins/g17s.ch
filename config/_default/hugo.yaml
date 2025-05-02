@@ -1,0 +1,10 @@
+theme: blowfish
+baseURL: https://g17s.ch
+defaultContentLanguage: de
+enableRobotsTXT: true
+minify: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

@@ -1,0 +1,15 @@
+main:
+  - name: Über mich
+    pageRef: /about-me
+    weight: 10
+  - name: Projekte
+    pageRef: /projects
+    weight: 20
+
+footer:
+  - name: Impressum
+    pageRef: /legal-notice
+    weight: 10
+  - name: Datenschutzerklärung
+    pageRef: /privacy-statement
+    weight: 20
