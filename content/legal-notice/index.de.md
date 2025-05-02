@@ -1,7 +1,7 @@
 ---
 title: Impressum
 slug: impressum
-date: "2025-03-31T09:30:00+02:00"
+date: 2025-04-02
 type: page
 layout: simple
 ---
@@ -10,7 +10,7 @@ layout: simple
 
 Gian Luca Decurtins, 8050 Zürich, Schweiz
 
-gian.luca.decurtins@g17s.ch
+gian.luca.decurtins@pm.me
 
 ## Haftungsauschluss
 
