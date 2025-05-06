@@ -21,6 +21,7 @@ params:
     headline: Zürich-Oerlikon
     links:
       - email: mailto:gian.luca.decurtins@pm.me
+      - pgpkey: https://keys.openpgp.org/search?q=gian.luca.decurtins@pm.me
       - linkedin: https://linkedin.com/in/g17s/
       - mitte: https://zuerich11.die-mitte.ch/menschen/
       - strava: https://strava.com/athletes/g17s/
