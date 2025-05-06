@@ -1,21 +1,12 @@
 ---
 title: Projects
 slug: projects
-date: "2025-04-19T09:00:00+02:00"
+date: 2025-05-06
 type: page
 layout: simple
 ---
 
 My projects and experiments.
-
-## Transfer service
-
-Transfer service provides digital tools like cloud storage ([Drive](https://drive.uemd.ch)), communication and admin solutions, and custom IT support.
-The goal is to offer reliable, privacy-friendly, and easy-to-use infrastructure – built for smaller organizations, independent of big tech platforms.
-
-- Website: [uemd.ch](https://uemd.ch)
-- Icon: {{< icon "uemd" >}}
-- Technology: [Synology DiskStation Manager](https://www.synology.com/en-us/dsm)
 
 ## Social media test
 

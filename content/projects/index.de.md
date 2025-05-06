@@ -1,21 +1,12 @@
 ---
 title: Projekte
 slug: projekte
-date: "2025-04-19T09:00:00+02:00"
+date: 2025-05-06
 type: page
 layout: simple
 ---
 
 Meine Projekte und Experimente.
-
-## Übermittlungsdienst
-
-Der Übermittlungsdienst bietet digitale Lösungen wie Cloud-Speicher ([Drive](https://drive.uemd.ch)), Kommunikations- und Verwaltungsdienste sowie individuelle IT-Unterstützung.
-Ziel ist es, kleinen Organisationen den Zugang zu verlässlicher, datenschutzkonformer und unkomplizierter IT-Infrastruktur zu ermöglichen – ohne Abhängigkeit von Grossanbietern.
-
-- Webseite: [uemd.ch](https://uemd.ch)
-- Icon: {{< icon "uemd" >}}
-- Technologien: [Synology DiskStation Manager](https://www.synology.com/de-de/dsm)
 
 ## Social Media Test
 
